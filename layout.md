@@ -5,4 +5,3 @@ untitled.html
 figures/mass
 9fe3.html
 10bae.html
-figures/age_comparison_bar_chart
