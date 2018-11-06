@@ -9,3 +9,4 @@ lp75oo5ubeo.html
 figures/mean_tripduration_per_age_grp
 9fe3.html
 10bae.html
+figures/box_whisker
